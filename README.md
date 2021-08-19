@@ -35,3 +35,6 @@
   https://github.com/cal750
   - - -
   sethnightingale10@gmail.com
+
+  ## Deployed site
+  https://note-taker-swn.herokuapp.com/
