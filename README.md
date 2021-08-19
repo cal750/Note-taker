@@ -13,7 +13,7 @@
   6. [Github](#Questions)
   
   ## Installation
-  In the inbuilt command line, use npm i and *** to get started, then use Node ***.js to launch the command prompt
+  In the inbuilt command line, use npm i and npm i express to get started, then use Node server.js to launch the command prompt
   
   ## Usage
   Through the inbuild command lines user prompts
