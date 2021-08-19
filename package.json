@@ -1,0 +1,26 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "An application to create notes",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "json": "^11.0.0",
+    "node": "^16.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cal750/Note-taker.git"
+  },
+  "author": "Seth Nightingale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cal750/Note-taker/issues"
+  },
+  "homepage": "https://github.com/cal750/Note-taker#readme"
+}
